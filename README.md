@@ -14,9 +14,9 @@
 
 Recent projects that I've been pursuing:
 
+- 🔎 [MongoTextQuery](https://github.com/aleRizzolo/MongoTextQuery): Some APIs for full-text search based on MongoDB
 - 🌡️ [reddiment](https://github.com/aleRizzolo/reddiment): A project in wich I did some hate-speech analysis on Reddit
 - 🌊 [SeaScan](https://github.com/aleRizzolo/SeaScan): A serverless application for monitoring sea water quality. Developed using LocalStack
-- ⚙️ [terraform-examples](https://github.com/aleRizzolo/terraform-examples): Some basic examples that I'm doing using Terraform
 
 ## Tech Stack
 
