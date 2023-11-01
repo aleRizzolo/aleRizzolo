@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=aleRizzolo&color=brightgreen)
 
 # About me
-> I know that I know nothing 
-> - Socrates
+> I know that I know nothing<br>
+> [Socrates]
 <br>
 
 👋 Hi, I'm Alessio and I'm a Computer Science student at the University of Salerno!
