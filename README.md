@@ -15,7 +15,7 @@
 
 🏀 Former (amateur) basketball player
 
-## Latest GitHub activity:
+## Latest GitHub activity
 
 - 🔎 [MongoTextQuery](https://github.com/aleRizzolo/MongoTextQuery): Some APIs for full-text search based on MongoDB<br>
 - 🌡️ [reddiment](https://github.com/aleRizzolo/reddiment): A project in wich I did some hate-speech analysis on Reddit
