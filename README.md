@@ -2,7 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=aleRizzolo&color=brightgreen)
 
-## About me
+# About me
+> I know that I know nothing 
+> - Socrates
+<br>
 
 👋 Hi, I'm Alessio and I'm a Computer Science student at the University of Salerno!
 
@@ -12,9 +15,9 @@
 
 🏀 Former (amateur) basketball player
 
-Recent projects that I've been pursuing:
+## Latest GitHub activity:
 
-- 🔎 [MongoTextQuery](https://github.com/aleRizzolo/MongoTextQuery): Some APIs for full-text search based on MongoDB
+- 🔎 [MongoTextQuery](https://github.com/aleRizzolo/MongoTextQuery): Some APIs for full-text search based on MongoDB<br>
 - 🌡️ [reddiment](https://github.com/aleRizzolo/reddiment): A project in wich I did some hate-speech analysis on Reddit
 - 🌊 [SeaScan](https://github.com/aleRizzolo/SeaScan): A serverless application for monitoring sea water quality. Developed using LocalStack
 
@@ -24,7 +27,7 @@ I'm constantly learning, and obviously no language is ever fully learnt.
 
 I'm still at the beginning of my career, and there's still much to learn beside simply learning new tools and languages.
 
-### Decent knowledge
+### Good knowledge
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
