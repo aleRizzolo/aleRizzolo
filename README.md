@@ -16,9 +16,9 @@
 🏀 Former (amateur) basketball player
 
 ## Latest GitHub activity
+- 🔎 [terraform-examples](https://github.com/aleRizzolo/terraform-examples): Some Terraform configurations<br>
 - 🔗 [CryptoProtein](https://github.com/aleRizzolo/CryptoProtein): A simple Dapp for BlockChain and ETH<br>
-- 🔎 [MongoTextQuery](https://github.com/aleRizzolo/MongoTextQuery): Some APIs for full-text search based on MongoDB<br>
-- 🌡️ [reddiment](https://github.com/aleRizzolo/reddiment): A project in wich I did some hate-speech analysis on Reddit
+- 🌡️ [reddiment](https://github.com/aleRizzolo/reddiment): A project about hate-speech analysis on Reddit
 
 ## Tech Stack
 
